@@ -25,7 +25,7 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 <h3 align="center"> 🚀 Skills & Technologies </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,github,mysql,php,bootstrap,linux,vscode,git,elixer,pheonix" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,tailwindcss,js,github,mysql,php,bootstrap,linux,vscode,git,elixer,pheonix" alt="skills" />
 </p>
 
 ---

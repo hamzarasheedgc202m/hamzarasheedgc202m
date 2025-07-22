@@ -60,7 +60,7 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 <h3 align="center"> 🌐 Let's Connect! </h3>
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/hamza rasheed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hamza-rasheed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/hamzarasheedgc202m" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:hamzarasheedgc202m@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

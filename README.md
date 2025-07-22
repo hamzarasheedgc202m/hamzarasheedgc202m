@@ -43,10 +43,11 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 ---
 
 <h3 align="center"> 🚀 Featured Projects </h3>
+<div align="center"> 
 
 | Project Name | Description | Technologies | Live Link / GitHub Link |
 |--------------|-------------|--------------|-------------------------|
-
+</div>
 ---
 
 <h3 align="center"> 🌐 Let's Connect! </h3>
@@ -61,5 +62,7 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 ---
 
 <p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzarasheedgc202m&color=blue&style=flat-square" alt="Profile Views" />
+</div>
 </p>

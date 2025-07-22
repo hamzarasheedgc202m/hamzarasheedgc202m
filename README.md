@@ -37,7 +37,7 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 <h3 align="center"> 🔧 Tools I Use </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,terminal,ai,blender" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,ai" alt="tools" />
 </p>
 
 ---

@@ -8,7 +8,7 @@
 
 <h3 align="center"> 🚀 About Me </h3>
 <p align="center">
-I’m a passionate software developer with a focus on Machine Learning, Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask, I thrive on solving real-world problems.
+I’m a passionate software developer with a focus on Machine Learning, Python development, Elixir development. With experience in creating innovative AI projects and building dynamic web applications using Pheonix, Django, I thrive on solving real-world problems.
 </p>
 
 ---
@@ -25,7 +25,7 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 <h3 align="center"> 🚀 Skills & Technologies </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,html,css,js,java,cpp,github,mysql,php,docker,firebase,bootstrap,linux,sqlite,vscode,git" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,elixer,pheonix,html,css,js,github,mysql,php,bootstrap,linux,vscode,git" alt="skills" />
 </p>
 
 ---

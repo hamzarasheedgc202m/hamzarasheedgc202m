@@ -38,10 +38,6 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 ---
 
-<h3 align="center"> 🏆 Trophies & Achievements </h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RasikhAli&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
 
 ---
 

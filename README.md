@@ -15,11 +15,11 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 <h3 align="center"> 🔥 Highlights </h3>
 
-- 🎓 **Gold Medalist** in BS Software Engineering from Superior University
+- 🎓 **Sofyware Engineer** in BS Software Engineering from Islamia University Bahawalpur
 - 💻 **Experienced Machine Learning Engineer** with a focus on real-time AI solutions
 - 🏆 **HackerRank** badge holder with over **300+** solved LeetCode problems
-- 🌱 Currently working as a **Junior Lecturer** and exploring **AI, ML, LLMs & RAGs**
-- 📄 **Published Researcher** with papers on Sarcasm Detection and Customer Segmentation
+- 🌱 Currently working as a **Web Developer** and exploring **AI**
+
 
 ---
 

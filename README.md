@@ -30,13 +30,7 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 ---
 
-<h3 align="center"> 📊 GitHub Stats </h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RasikhAli&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasikhAli&layout=compact&hide_border=true&theme=algolia" />
-</p>
 
----
 
 
 ---

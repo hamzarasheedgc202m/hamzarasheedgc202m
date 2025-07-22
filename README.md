@@ -74,5 +74,5 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RasikhAli&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hamzarasheedgc202m&color=blue&style=flat-square" alt="Profile Views" />
 </p>

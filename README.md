@@ -46,21 +46,13 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 | Project Name | Description | Technologies | Live Link / GitHub Link |
 |--------------|-------------|--------------|-------------------------|
-| [Hadith Explorer Chatbot](https://hadithbot.marveloussoft.tech/) | A chatbot that helps users explore Hadiths with AI-based interaction. | Python, Flask, AI | [Live Link](https://hadithbot.marveloussoft.tech/) |
-| [Face Profiling](https://github.com/RasikhAli/Bitlogicx/tree/main/7.%20Face%20Profiling) | AI-based personality prediction from facial features using image processing. | OpenCV, Python, Flask | [GitHub](https://github.com/RasikhAli/Bitlogicx/tree/main/7.%20Face%20Profiling) |
-| [Sarcasm Detection in Headlines](https://github.com/RasikhAli/Sarcasm-Detection) | AI model to detect sarcasm in news headlines using NLP techniques. | Python, TensorFlow, NLP | [GitHub](https://github.com/RasikhAli/Sarcasm-Detection) |
-| [Animal Herd Detection & Alert System](https://github.com/RasikhAli/Bitlogicx/tree/main/3.%20AnimalHerd) | An AI-based system for detecting animal herds and sending alerts in real-time. | Python, OpenCV, ML | [GitHub](https://github.com/RasikhAli/Bitlogicx/tree/main/3.%20AnimalHerd) |
-| [QR Code Generator](https://rasikhali.marveloussoft.tech/) | Generate customizable QR codes with color, logos, and image backgrounds. | Flask, HTML, CSS | [Live Link](https://rasikhali.marveloussoft.tech/) / [GitHub](https://github.com/RasikhAli/QR-Code-Generator) |
-| [Web Monitor & Alert System](https://github.com/RasikhAli/Web-Monitor-and-Alert-System-using-Google-Email-App-Password) | A system to monitor web changes and send alerts via email using a secure app password. | Flask, Google Email API, Python | [GitHub](https://github.com/RasikhAli/Web-Monitor-and-Alert-System-using-Google-Email-App-Password) |
-| [Leads Extractor](https://github.com/RasikhAli/Leads-Extractor) | Extract and manage leads from various sources with ease. | Python, Flask, Web Scraping | [GitHub](https://github.com/RasikhAli/Leads-Extractor) |
-| [MOV to WEBM Converter](https://github.com/RasikhAli/Flask-MOV-to-WEBM-Converter) | Convert MOV files to WEBM format with transparency using a Flask-based application. | Flask, Video Processing | [GitHub](https://github.com/RasikhAli/Flask-MOV-to-WEBM-Converter) |
 
 ---
 
 <h3 align="center"> 🌐 Let's Connect! </h3>
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/hamza-rasheed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hamza-rasheed-202m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/hamzarasheedgc202m" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:hamzarasheedgc202m@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

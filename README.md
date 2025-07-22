@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rasikh Ali 👋</h1>
+<h1 align="center">Hi, I'm Hamza Rasheed 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Gold+Medalist+in+BSSE;Python+Developer;Flask+Specialist;Machine+Learning+Engineer;Always+learning+new+tech!">

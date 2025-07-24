@@ -17,7 +17,6 @@ I’m a passionate software developer with a focus on Machine Learning, Python d
 
 - 🎓 **Sofyware Engineer** in BS Software Engineering from Islamia University Bahawalpur
 - 💻 **Experienced Machine Learning Engineer** with a focus on real-time AI solutions
-- 🏆 **HackerRank** badge holder with over **300+** solved LeetCode problems
 - 🌱 Currently working as a **Web Developer** and exploring **AI**
 
 
